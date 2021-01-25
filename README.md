@@ -29,6 +29,7 @@ code .
 curl "https://www.tutorialspoint.com/software_engineering/index.htm" -O "data.txt"
 
 ```
+- Open Git Bash
 - Transform each space ' ' into a return character '\12' and redirect to specified file
 ```
 tr ' ' '\12' < data.txt
