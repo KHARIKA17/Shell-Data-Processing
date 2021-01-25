@@ -66,12 +66,12 @@ tr ' ' '\12' < returnedfile | sort | uniq -c | sort -nr > result.txt
 
 ## Other important commands:
 ### Bash preview:
-cat filename (To get the contents of the file)
-head -10 filename.fx (To display the top 10 results of the file)
-tail -2 filename.fx (To display the botton 10 results of the file)
+- cat filename (To get the contents of the file)
+- head -10 filename.fx (To display the top 10 results of the file)
+- tail -2 filename.fx (To display the botton 10 results of the file)
 ### PowerShell cat:
-Get-Content filename.fx (To get the contents of the file)
-gc one.txt -head 2 (To display the top 2 results of the file)
-gc one.txt -tail 2 (To display the bottom 2 results of the file)
+- Get-Content filename.fx (To get the contents of the file)
+- gc one.txt -head 2 (To display the top 2 results of the file)
+- gc one.txt -tail 2 (To display the bottom 2 results of the file)
 
 
