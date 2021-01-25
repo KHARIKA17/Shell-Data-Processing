@@ -2,7 +2,7 @@
 
 ## Steps:
 - Create a folder.Right click on the folder and "Open PowerShell window here as administrator"
-- Create subfolder named  shell-data-processing 
+- Create subfolder named shell-data-processing 
 ```
 mkdir shell-data-processing
 ```
